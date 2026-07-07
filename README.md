@@ -1,6 +1,6 @@
 # Curso: Introducción a las IAs Generativas
 
-**Duración:** 5 horas (1 jornada intensiva)
+**Duración:** 12 horas (2 jornadas intensivas de 6 horas)
 **Modalidad:** Presencial / Virtual sincrónico
 **Público:** Profesionales, managers y personas no técnicas
 
