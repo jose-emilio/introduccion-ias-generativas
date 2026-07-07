@@ -37,6 +37,3 @@ Al completar este módulo el participante sera capaz de:
 - [3.2 Creación sonora](02-creacion-sonora.md)
 - [3.3 Procesamiento de texto](03-procesamiento-texto.md)
 
-## Laboratorio relacionado
-
-- [Lab 5: RAG — Conocimiento interno con LLMs](../../laboratorios/lab-5-rag.md) — Ejercicio práctico para conectar LLMs con documentación corporativa mediante RAG simulado.
