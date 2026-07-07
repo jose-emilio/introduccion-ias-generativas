@@ -40,23 +40,3 @@ Al finalizar el curso, los participantes serán capaces de:
 4. **Evaluar** los riesgos éticos, de sesgo y de seguridad asociados a la IAG.
 5. **Diseñar** políticas básicas de uso responsable de IAG en su organización.
 6. **Distinguir** entre herramientas públicas inseguras y APIs empresariales protegidas.
-
-## Mapa de Contenidos vs Tiempo
-
-| Bloque | Contenido | Duración |
-|--------|-----------|----------|
-| 1 | Módulo 1 — Fundamentos de IA + Lab 1 | 1h 15min |
-| 2 | Módulo 2 — IA Generativa y LLMs + Lab 2 | 1h 15min |
-| 3 | Módulo 3 — Herramientas y Aplicaciones + Labs 3-6 | 1h 15min |
-| 4 | Módulo 4 — Seguridad, Ética y Gobernanza + Labs 7-9 | 1h 15min |
-| 5 | Módulo 5 — Conclusiones y Plan de Acción | 15min |
-
-## Navegación rápida
-
-- [Inicio](README.md)
-- [Módulo 1: Fundamentos de IA](modulos/modulo-1-fundamentos-ia/index.md)
-- [Módulo 2: Introducción a la IAG](modulos/modulo-2-iag-introduccion/index.md)
-- [Módulo 3: Herramientas y Aplicaciones](modulos/modulo-3-aplicaciones/index.md)
-- [Módulo 4: Seguridad, Ética y Gobernanza](modulos/modulo-4-herramientas-seguridad/index.md)
-- [Módulo 5: Conclusiones y Plan de Acción](modulos/modulo-5-conclusiones/index.md)
-- [Laboratorios](laboratorios/lab-1-identificando-ia.md)
