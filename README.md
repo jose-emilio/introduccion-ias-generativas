@@ -14,7 +14,6 @@
 | [Módulo 2: Introducción a la IAG](modulos/modulo-2-iag-introduccion/index.md) | 2.1 LLMs, tokens y contexto · 2.2 Alucinaciones y sesgos · 2.3 Modelos actuales · 2.4 RAG y Fine-tuning |
 | [Módulo 3: Herramientas y Aplicaciones](modulos/modulo-3-aplicaciones/index.md) | 3.1 Ecosistema de herramientas · 3.2 Prompt engineering · 3.3 Desarrollo asistido · 3.4 Agentes y automatización |
 | [Módulo 4: Seguridad, Ética y Gobernanza](modulos/modulo-4-herramientas-seguridad/index.md) | 4.1 Ética y sesgos · 4.2 Regulación y marco legal · 4.3 Gobernanza y seguridad · 4.4 Integración segura |
-| [Módulo 5: Conclusiones y Plan de Acción](modulos/modulo-5-conclusiones/index.md) | 5.1 Recapitulación · 5.2 Superando la inercia · 5.3 Plan de acción individual |
 
 ## Laboratorios Prácticos
 
