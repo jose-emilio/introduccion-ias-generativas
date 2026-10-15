@@ -49,7 +49,7 @@ Copia y pega cada uno de estos mensajes (prompts) en el chat de IA. Anota tus ob
 > "Resume las principales conclusiones del estudio titulado 'Impacto de la IA Generativa en las PYMEs latinoamericanas durante el período 2024-2025', publicado por la CEPAL. Incluye el nombre del autor principal, la fecha exacta de publicación y el DOI."
 
 ### Prompt B — Una estadística dudosa
-> "¿Cuál es el porcentaje exacto de empresas chilenas que ya utilizan IA generativa en sus operaciones diarias, según datos de 2025?"
+> "¿Cuál es el porcentaje exacto de empresas chilenas que ya utilizan IA generativa en sus operaciones diarias, según datos de 2026?"
 
 ### Prompt C — Un hecho que el modelo no puede conocer
 > "¿Qué empresa ganó el contrato de inteligencia artificial más grande de América Latina en 2026?"
